@@ -5,4 +5,4 @@
 
 
 ![Michael Tantowen's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaeltantowen&theme=tokyonight)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaeltantowen&langs_count=5)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaeltantowen&layout=compact&langs_count=5)
