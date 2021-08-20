@@ -4,7 +4,7 @@
 - Interested in **Full Stack Web Development**
 
 
-[![Michael Tantowen's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaeltantowen&theme=tokyonight)]
+[!Michael Tantowen's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaeltantowen&theme=tokyonight)
 
 <!--
 **michaeltantowen/michaeltantowen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
